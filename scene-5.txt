@@ -1,6 +1,15 @@
-Ghost:
-My hour is almost come,
-When I to sulphurous and tormenting flames
-Must render up myself.
+# README
 
+## Oefenen met Markdown
 
+** Dit is vette tekst **
+
+* Dit is schuine tekst *
+
+### De dagen van de week zijn:
+
+1. Maandag
+2. Dinsdag
+3. Woensdag
+4. Donderdag
+5. Vrijdag
